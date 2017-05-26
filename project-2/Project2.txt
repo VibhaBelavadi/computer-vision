@@ -1,0 +1,5 @@
+In detect wink,
+we took mulitple cascades for eyes and the face. By doing median filtring we were able to get the cascades working on majority of the images.
+
+In silence detection,
+by taking multiple cascades for the face and changing the rate of discoverin the mouth,we were able to achieve a decent accuracy.
